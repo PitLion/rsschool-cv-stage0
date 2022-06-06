@@ -49,3 +49,10 @@ Forensic examination. Specialty forensic expert
 4. *Eric Freeman, Elisabeth Robson  Head First JavaScript Programming*
 5. *Eric Freeman, Elisabeth Robson  Head First HTML5 Programming*
 
+## **Languages**
+- Belorussian - Native
+- Russian 
+- Polish - Basic
+- German - Basic
+- English - A1
+
