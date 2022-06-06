@@ -35,5 +35,17 @@ function score(a, b) {
 ```
 
 ## **Experience**
+[Burger](https://github.com/PitLion/Burger)
 
+[My cv](https://pitlion.github.io/rsschool-cv/cv)
+
+## **Education**
+Forensic examination. Specialty forensic expert
+
+   BOOKS
+1. *Eric Freeman, Elisabeth Robson  Head First HTML and CSS*
+2. *David McFarland  The New Big Book of CSS*
+3. *Nick Morgan  JavaScript for Kids*
+4. *Eric Freeman, Elisabeth Robson  Head First JavaScript Programming*
+5. *Eric Freeman, Elisabeth Robson  Head First HTML5 Programming*
 
