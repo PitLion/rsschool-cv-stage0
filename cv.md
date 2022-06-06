@@ -1,4 +1,5 @@
 # **PIOTR BAUSIUK**
+![lion king simba](https://static.wikia.nocookie.net/thelionking/images/f/fc/Simba_for_box.png/revision/latest?cb=20170219141517&path-prefix=ru)
 
 ## **Contacts**
 * ***Location:*** *Hrodno, Belarus*
